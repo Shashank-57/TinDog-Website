@@ -39,3 +39,24 @@ body {
   margin-left: 30%;
   transform: rotate(22.5deg);
 }
+#features {
+  margin: 10rem 12rem 10rem 12rem;
+  text-align: center;
+  /* padding-left: 2rem;
+  padding-right: 2rem; */
+}
+h3 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+.fimg {
+  color: #ef8172;
+  padding-bottom: 1.5rem;
+}
+.fimg:hover {
+  color: #ff4c68;
+}
+.fbox {
+  padding: 1rem 5rem;
+}
